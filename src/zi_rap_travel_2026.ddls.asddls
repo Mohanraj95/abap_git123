@@ -1,6 +1,6 @@
-@AbapCatalog.viewEnhancementCategory: [#NONE]
+@AbapCatalog.viewEnhancementCategory: [#NONE  ]
 @AccessControl.authorizationCheck: #CHECK
-@EndUserText.label: 'Travel CDS view'
+@EndUserText.label: 'Travel CDS view Test'
 @Metadata.ignorePropagatedAnnotations: true
 @ObjectModel.usageType:{
     serviceQuality: #X,
